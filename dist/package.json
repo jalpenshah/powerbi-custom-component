@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Jalpen Shah","email":"help@jalpenshah.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/customGuage.pbiviz.json"
+			}
+		],
+		"visual": {"name":"customGuage","displayName":"CustomGuage","guid":"customGuage","visualClassName":"Visual","version":"1.0.0.0","description":"Custom gauge chart for comparing metrics","supportUrl":"https://www.jalpenshah.com","gitHubUrl":""},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
