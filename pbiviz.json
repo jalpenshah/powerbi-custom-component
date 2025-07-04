@@ -1,0 +1,26 @@
+{
+    "visual": {
+        "name": "customGuage",
+        "displayName": "CustomGuage",
+        "guid": "customGuage",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "Custom gauge chart for comparing metrics",
+        "supportUrl": "https://www.jalpenshah.com",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "5.3.0",
+    "author": {
+        "name": "Jalpen Shah",
+        "email": "help@jalpenshah.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": [],
+    "version": "1.0.0.0"
+}
